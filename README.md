@@ -19,11 +19,13 @@ Crowdsourcing data - strategies, tools, and stories.
 		* Tools - paper forms, IVR, OMR, web.
 		* Verification - double entry, randomisation.
 		* Cost
-	2. Humanitarian OpenStreetMap Team.
-		* Background 
-		* Need for data
-		* What data
-		* From whom
-		* Tools
-		* Verification
+	2. Humanitarian OpenStreetMap Team. [Typhoon Haiyan](http://wiki.osm.org/wiki/Typhoon_Haiyan)
+		* Background -
+			* OpenStreetMap
+			* bridge between the traditional Humanitarian Responders and the OpenStreetMap Community.
+		* Need for data - preparing data before a crisis is better than panicking after it.
+		* What data - geographic.
+		* From whom - volunteers all over the world.
+		* Tools - OpenStreetMap, GPS, Satellite imagery, Social media.
+		* Verification - 
 4. Discussion. *20*
