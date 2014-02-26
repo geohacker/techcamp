@@ -28,7 +28,7 @@ Crowdsourcing data - strategies, tools, and stories.
 		* What data - geographic.
 		* From whom - volunteers all over the world.
 		* Tools - OpenStreetMap, GPS, Satellite imagery, Social media.
-		* Verification - 
+		* Verification - validation in the editors, moderation, communication channels.
 4. Discussion. *20*
 
 ## Goodies
